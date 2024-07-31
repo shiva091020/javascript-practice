@@ -1,4 +1,4 @@
-function Add(a,b){
+function Add(a,b){ using arguments
   var a=20
   var b=70
    console.log(a+b)
